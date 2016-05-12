@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="proxima release flatshot.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1863.4878"
+     inkscape:cy="685.75476"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3953"
+       transform="translate(232.49558,279.01959)"
+       inkscape:export-filename="/home/turupawn/iteracion.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3930">
+        <rect
+           y="-347.63785"
+           x="-525.71429"
+           height="120.00001"
+           width="1500"
+           id="rect3116"
+           style="fill:#ffffff;fill-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+           x="107.30328"
+           y="-272.83313"
+           id="text2985-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2987-6"
+             x="107.30328"
+             y="-272.83313"
+             style="font-size:60px">Iteración</tspan></text>
+      </g>
+      <g
+         id="g3935">
+        <rect
+           style="fill:#3498db;fill-opacity:1"
+           id="rect3118"
+           width="1500"
+           height="265.71429"
+           x="-525.71429"
+           y="-227.63785" />
+        <g
+           id="g3914"
+           transform="translate(101.73938,-3.4431076)">
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+             x="-408.28265"
+             y="-127.2458"
+             id="text3090"
+             sodipodi:linespacing="125%"><tspan
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               sodipodi:role="line"
+               id="tspan3092"
+               x="-408.28265"
+               y="-127.2458">1</tspan><tspan
+               id="tspan3906"
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               sodipodi:role="line"
+               x="-403.32172"
+               y="-77.245796">Realizar </tspan><tspan
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               id="tspan3108"
+               sodipodi:role="line"
+               x="-408.28265"
+               y="-27.245796">feature core</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3094"
+             y="-127.11884"
+             x="-26.030777"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+             xml:space="preserve"><tspan
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               id="tspan3106"
+               y="-127.11884"
+               x="-26.030777"
+               sodipodi:role="line">2</tspan><tspan
+               id="tspan3908"
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               y="-77.118843"
+               x="-26.030777"
+               sodipodi:role="line">Colar features</tspan><tspan
+               id="tspan3904"
+               style="text-align:center;text-anchor:middle;fill:#ffffff"
+               y="-27.118843"
+               x="-26.030777"
+               sodipodi:role="line">terminadas</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+             x="355.98672"
+             y="-105.98603"
+             id="text3098"
+             sodipodi:linespacing="125%"><tspan
+               style="text-align:center;text-anchor:middle"
+               sodipodi:role="line"
+               id="tspan3100"
+               x="355.98672"
+               y="-105.98603">3</tspan><tspan
+               style="text-align:center;text-anchor:middle"
+               id="tspan3910"
+               sodipodi:role="line"
+               x="355.98672"
+               y="-55.986031">Empaquetar</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3102"
+             y="-102.31416"
+             x="686.98859"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+             xml:space="preserve"><tspan
+               style="text-align:center;text-anchor:middle"
+               y="-102.31416"
+               x="686.98859"
+               id="tspan3104"
+               sodipodi:role="line">4</tspan><tspan
+               style="text-align:center;text-anchor:middle"
+               id="tspan3912"
+               y="-52.314163"
+               x="686.98859"
+               sodipodi:role="line">Publicar</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4067"
+       transform="translate(230.31478,432.34529)"
+       inkscape:export-filename="/home/turupawn/iteracion2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3976">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           id="rect3120"
+           width="1500"
+           height="120.00001"
+           x="-525.71429"
+           y="66.647865" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+           x="84.344299"
+           y="144.17717"
+           id="text2985"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2987"
+             x="84.344299"
+             y="144.17717"
+             style="font-size:50px">Feature core</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-25.714279)"
+         id="g4062">
+        <rect
+           y="212.36215"
+           x="-525.71429"
+           height="120.00001"
+           width="1500"
+           id="rect3122"
+           style="fill:#e74c3c;fill-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text2989"
+           y="287.37192"
+           x="26.824768"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+           xml:space="preserve"><tspan
+             y="287.37192"
+             x="26.824768"
+             id="tspan2991"
+             sodipodi:role="line">Patrones mas dificiles</tspan></text>
+      </g>
+      <g
+         transform="translate(2.2167969e-6,-62.857117)"
+         id="g4038">
+        <g
+           id="g4018">
+          <rect
+             y="489.505"
+             x="-525.71429"
+             height="394.28571"
+             width="750"
+             id="rect3124"
+             style="fill:#2ecc71;fill-opacity:1" />
+          <g
+             transform="translate(0,-26.12973)"
+             id="g3996">
+            <text
+               sodipodi:linespacing="125%"
+               id="text3014"
+               y="691.1579"
+               x="-186.43695"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               xml:space="preserve"><tspan
+                 y="691.1579"
+                 x="-186.43695"
+                 id="tspan3016"
+                 sodipodi:role="line">SFX</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               x="-270.07953"
+               y="750.68628"
+               id="text3018"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3020"
+                 x="-270.07953"
+                 y="750.68628">Quitar el HUD</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3022"
+               y="814.62878"
+               x="-369.00531"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               xml:space="preserve"><tspan
+                 y="814.62878"
+                 x="-369.00531"
+                 id="tspan3024"
+                 sodipodi:role="line">Mecánica de proximidad</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               x="-256.9057"
+               y="632.80139"
+               id="text3042"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3044"
+                 x="-256.9057"
+                 y="632.80139"
+                 style="font-weight:bold;-inkscape-font-specification:Roboto Bold">Terminadas</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g4006"
+           transform="translate(-124.28571,0)">
+          <rect
+             style="fill:#9b59b6;fill-opacity:1"
+             id="rect3126"
+             width="750"
+             height="394.28571"
+             x="348.57141"
+             y="489.505" />
+          <g
+             transform="translate(88.861359,-26.129913)"
+             id="g3986">
+            <text
+               xml:space="preserve"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               x="515.38391"
+               y="692.9549"
+               id="text3026"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3028"
+                 x="515.38391"
+                 y="692.9549">Puerto a OSX</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3030"
+               y="753.10846"
+               x="596.81946"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               xml:space="preserve"><tspan
+                 y="753.10846"
+                 x="596.81946"
+                 id="tspan3032"
+                 sodipodi:role="line">GFX</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               x="415.06161"
+               y="814.4339"
+               id="text3034"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3036"
+                 x="415.06161"
+                 y="814.4339">Música pegada al patrón</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3046"
+               y="632.80133"
+               x="501.93661"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+               xml:space="preserve"><tspan
+                 y="632.80133"
+                 x="501.93661"
+                 id="tspan3048"
+                 sodipodi:role="line"
+                 style="font-weight:bold;-inkscape-font-specification:Roboto Bold">No terminadas</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-34.285713)"
+         id="g3981">
+        <rect
+           y="340.93359"
+           x="-525.71429"
+           height="120.00001"
+           width="1500"
+           id="rect3896"
+           style="fill:#ffffff;fill-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3898"
+           y="419.43945"
+           x="46.551331"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+           xml:space="preserve"><tspan
+             style="font-size:50px"
+             y="419.43945"
+             x="46.551331"
+             id="tspan3900"
+             sodipodi:role="line">Fetures coladas</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
