@@ -25,13 +25,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="1394.0754"
-     inkscape:cy="-197.16004"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="2763.2884"
+     inkscape:cy="-1289.1763"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1360"
+     inkscape:window-width="1366"
      inkscape:window-height="746"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -52,6 +52,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       y="2273.8623"
+       x="2615"
+       height="115"
+       width="219"
+       id="rect6015"
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="arrow_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ff00ff;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5219"
+       width="1020"
+       height="556"
+       x="2178"
+       y="1554.3622" />
     <rect
        style="fill:#241c1c;fill-opacity:1;stroke:none"
        id="rect2985"
@@ -10806,5 +10823,100 @@
          x="4037.6445"
          y="3537.2529"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light">Rosalila Studio</tspan></text>
+    <image
+       y="1746.8622"
+       x="2450.5"
+       id="image5216"
+       xlink:href="file:///home/turupawn/Projects/C++/Flatshot/STG/assets/menu/arrow_left.png"
+       height="115"
+       width="219"
+       style="fill:#ff00ff" />
+    <rect
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5221"
+       width="219"
+       height="115"
+       x="2616"
+       y="1872.3622" />
+    <path
+       style="color:#000000;fill:#a02c2c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2756,1893.8622 40,32.5 -40,32.5 z"
+       id="rect5223"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="color:#000000;fill:#a02c2c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5226"
+       width="105"
+       height="25"
+       x="2651.707"
+       y="1913.8622" />
+    <rect
+       y="2128.8623"
+       x="2615"
+       height="115"
+       width="219"
+       id="rect5228"
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="arrow_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5234"
+       transform="translate(-19,101.5001)"
+       style="fill:#ffffff"
+       inkscape:export-filename="arrow_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 2756,2052.3622 40,32.5 -40,32.5 z"
+         id="path5230"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5232"
+         width="68"
+         height="25"
+         x="2691"
+         y="2072.3623" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="arrow_left.png"
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5238"
+       width="219"
+       height="115"
+       x="2615"
+       y="2273.8623" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="arrow_left.png"
+       style="fill:#ffffff;fill-opacity:0.1254902"
+       transform="matrix(1.1904762,0,0,1.1904762,-541.57143,-150.61651)"
+       id="g5240">
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:0.1254902;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 2739.375 2292.6562 L 2739.375 2316.4688 L 2662 2316.4688 L 2662 2346.25 L 2739.375 2346.25 L 2739.375 2370.0625 L 2787 2331.375 L 2739.375 2292.6562 z "
+         transform="matrix(0.83999999,0,0,0.83999999,454.92,126.51787)"
+         id="path5242" />
+    </g>
+    <g
+       id="g6017"
+       transform="matrix(1.1904762,0,0,1.1904762,-541.57143,-150.61651)"
+       style="fill:#ffffff;fill-opacity:0.1254902"
+       inkscape:export-filename="arrow_left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path6019"
+         transform="matrix(0.83999999,0,0,0.83999999,454.92,126.51787)"
+         d="M 2739.375 2292.6562 L 2739.375 2316.4688 L 2662 2316.4688 L 2662 2346.25 L 2739.375 2346.25 L 2739.375 2370.0625 L 2787 2331.375 L 2739.375 2292.6562 z "
+         style="color:#000000;fill:#ffffff;fill-opacity:0.1254902;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
