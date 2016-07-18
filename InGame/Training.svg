@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="838.99498"
-     inkscape:cy="1128.7899"
+     inkscape:cx="596.1543"
+     inkscape:cy="1400.8888"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,6 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -172,7 +173,7 @@
          x="397.19601"
          y="260.19116"
          style="font-size:23.54999733px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-         id="tspan3021">Stop shooting to charge, charge to unleash an attack that cleans enemy bullets in it's way. </tspan><tspan
+         id="tspan3021">Stop shooting to charge, shoot to unleash an attack that cleans enemy bullets in it's way. </tspan><tspan
          sodipodi:role="line"
          x="393.44733"
          y="289.62866"
